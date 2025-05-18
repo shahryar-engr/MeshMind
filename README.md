@@ -8,7 +8,7 @@ Ideal for **designers, engineers, and prototypers** looking for quick manufactur
 
 ## 🚀 Features
 
-- 📂 Upload `.stl` or `.obj` 3D files  
+- 📂 Upload `.obj` 3D files  
 - 🔍 Display key mesh info: **vertices, faces, watertightness**
 - 🎨 Interactive 3D model viewer using **Plotly**
 - 🧠 AI-powered analysis via **Groq API**:
