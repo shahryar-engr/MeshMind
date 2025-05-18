@@ -18,7 +18,7 @@ Ideal for **designers, engineers, and prototypers** looking for quick manufactur
 - 📝 User input for model description, material, and manufacturing methods
 - 📸 Screenshot support (see below)
 
----
+![App Screenshot](assets/screenshot.png)
 
 ## 🧰 Tech Stack
 
